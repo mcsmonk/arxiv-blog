@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "CV"
-    url: /cv/
+    url: https://mcsmonk.github.io/cv
   - title: "Category"
     url: /categories/
   - title: "Tag"
@@ -11,7 +11,7 @@ main:
   - title: "Schedules"
     url: /schedules/
   - title: "Deadlines"
-    url: /deadlines/
+    url: https://mcsmonk.github.io/deadlines
   - title: "Links"
     url: /links/
   #- title: Iamroot16 History
